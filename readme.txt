@@ -2,6 +2,8 @@ this is my first git repository.
 
 test modify...
 
+Creating a new branch is quick.
+
 how to compare staging area with HEAD.
 
 $ git clone --bare  /d/my_git/git_learning/.git ya.git
